@@ -11,3 +11,4 @@
 <p> #8. If you wanted one that could change to ant boolean value, you would want to put a "boolean f" inside the parentheses and put "favorite = f" instead of declaring the value to be true. I personally prefer the one where you can declare whatever value you want</p>
 <p> #12a. The naming convention is called camel casing </p>
 <p> #12b. totalCost should be a double because each of your prices isn't going to come out to an exact integer, so if you use int it will round up </p>
+<p> Conclusion #1: You might want to have more than one constructor if you want to give out a certain amount of variables at different points</p>

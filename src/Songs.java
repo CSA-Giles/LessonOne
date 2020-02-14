@@ -21,8 +21,6 @@ public class Songs {
         this.price = price;
         this.rating = rating;
         totalCost = totalCost + price;
-        ++numSongs;
-        totalRatings = totalRatings + rating;
 
     }
     public String getTitle() {
