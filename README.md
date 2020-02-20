@@ -40,3 +40,15 @@
 <p>#28a. if(temperature <= 75)</p>
 <p>#28b. if(temperature > 100)</p>
 <p>#28c. if(temperature != 32)</p>
+
+#Lesson 1.1.5
+<p> 1 2</p>
+
+<p>#1. You would want to call a static method by doing Math.sqrt(25)</p>
+
+<p>#2. One essentially rolls a 12 sided die to simulate rolling two standard die. The other simulates rolling two separate die to get their own values.
+ The first one doesn't make as much sense for if you wanted to see doubles, so the second would be more realistic</p>
+
+<p> Conclusion #1. The algorithm uses the length -1 because otherwise it would basically see it as 1 longer than it should be and create a bound error</p>
+
+<p> Conclusion #2. The difference between the two statements is that the first one will always output to being 1 and the second will actually return a number between 1 and 10 </p>
