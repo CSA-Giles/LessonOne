@@ -52,3 +52,13 @@
 <p> Conclusion #1. The algorithm uses the length -1 because otherwise it would basically see it as 1 longer than it should be and create a bound error</p>
 
 <p> Conclusion #2. The difference between the two statements is that the first one will always output to being 1 and the second will actually return a number between 1 and 10 </p>
+
+#Lesson 1.1.6
+<p> 1 2 3 4 13</p>
+
+<p>#1a. When you enter the various results, they reply with the same simple responses, replying about family or weather.</p>
+<p>#1b. You can tell that there are certain keywords that will trigger a response,
+where you could most likely make no sense with what you say and still get the same response, as long as you use the keyword</p>
+<p>#1c. Some of the keywords present are "no" "mother" "where" and "weather" bring about responses asking about the weather or telling you to talk more about your family</p>
+
+<p>#2b.
