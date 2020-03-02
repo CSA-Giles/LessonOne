@@ -20,6 +20,10 @@ public class Magpie2 {
         {
             response = "Tell me more about your family.";
         }
+        else if(statement.indexOf("I want") >= 0)
+        {
+            response = "Would you really be happy if you had " + statement.substring(7) + "?";
+        }
         else
         {
             response = getRandomResponse();

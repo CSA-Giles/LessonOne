@@ -61,4 +61,10 @@
 where you could most likely make no sense with what you say and still get the same response, as long as you use the keyword</p>
 <p>#1c. Some of the keywords present are "no" "mother" "where" and "weather" bring about responses asking about the weather or telling you to talk more about your family</p>
 
-<p>#2b.
+<p>#2b. My mother and I talked last night : tell me more about your family
+        I said no! : Why so negative?
+        The weather is nice : you don't say
+        Do you know my brother : why so negative</p>
+<p>#2d. <img src = "116_1.PNG"> </p>
+
+
