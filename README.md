@@ -20,7 +20,7 @@
 
 <p> Conclusion #1: You might want to have more than one constructor if you want to give out a certain amount of variables at different points</p>
 
-#Lesson 1.1.4
+# Lesson 1.1.4
 <p> 1 10 25 27 28</p>
 
 <p>#1a. You can tell a string is an object and not a primitive type because it has a capital 'S'</p>
@@ -41,7 +41,7 @@
 <p>#28b. if(temperature > 100)</p>
 <p>#28c. if(temperature != 32)</p>
 
-#Lesson 1.1.5
+# Lesson 1.1.5
 <p> 1 2</p>
 
 <p>#1. You would want to call a static method by doing Math.sqrt(25)</p>
@@ -53,7 +53,7 @@
 
 <p> Conclusion #2. The difference between the two statements is that the first one will always output to being 1 and the second will actually return a number between 1 and 10 </p>
 
-#Lesson 1.1.6
+# Lesson 1.1.6
 <p> 1 2 3 4 13</p>
 
 <p>#1a. When you enter the various results, they reply with the same simple responses, replying about family or weather.</p>
@@ -66,5 +66,8 @@ where you could most likely make no sense with what you say and still get the sa
         The weather is nice : you don't say
         Do you know my brother : why so negative</p>
 <p>#2d. <img src = "116_1.PNG"> </p>
+<p>#2e. If you enter the term "My mother has a daughter but no cat periods", it will output the response for the no entry. You could fix this by making it see which keyword is more frequent and choose the response based on te number of occurrences.</p>
+<p>#2f. When you  hide a keyword within another word, it will end up with a response that doesn't make much sense. The problem with these is that the chat-bot seems flawed due to making no sense when it replies</p>
 
+<p>#3
 
