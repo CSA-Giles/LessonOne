@@ -161,4 +161,11 @@ public class Magpie3 {
 
         return response;
     }
+
+    public static void main(String[] args)
+    {
+        Magpie3 maggie = new Magpie3();
+
+        maggie.findKeyword("She's my sister", "sister", 0);
+    }
 }
